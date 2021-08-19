@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/Profesor08/port-finder#readme",
   "devDependencies": {
+    "@types/minimist": "^1.2.2",
+    "@types/node": "^16.6.2",
+    "ts-node": "^10.2.1",
     "typescript": "^4.3.5"
   },
   "dependencies": {
