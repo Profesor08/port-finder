@@ -14,6 +14,9 @@
   },
   "author": "Profesor08",
   "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
   "bugs": {
     "url": "https://github.com/Profesor08/port-finder/issues"
   },
