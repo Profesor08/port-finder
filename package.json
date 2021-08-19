@@ -1,0 +1,28 @@
+{
+  "name": "@prof-dev/port-finder",
+  "version": "1.0.0",
+  "description": "Helper class for events management",
+  "main": "lib/PortFinder.js",
+  "types": "lib/PortFinder.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Profesor08/port-finder.git"
+  },
+  "author": "Profesor08",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Profesor08/port-finder/issues"
+  },
+  "homepage": "https://github.com/Profesor08/port-finder#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "portfinder": "^1.0.28"
+  }
+}
